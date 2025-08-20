@@ -1,0 +1,42 @@
+.name{
+        color: #fd6e0a;
+    }
+    nav ul{
+        list-style-type: none;
+        display: flex;
+        align-items: center;
+    }
+    nav ul li a{
+        text-decoration: none;
+        color: #474747;
+    }
+    nav ul li{
+        margin-right: 51px;
+    }
+    nav{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .button-color{
+        background-color: #fd6e0a;
+        color: white;
+        border-radius: 5px;
+        border: none;
+        font-size: 20px;
+        font-weight: bold;
+        padding: 18px 35px;
+    }
+    .header{
+       background-image: url('../images/hardy.png');
+       background-position:  top right left bottom;
+       background-repeat:  no-repeat;  
+    }
+    .top {
+        justify-content: space-between;
+        display: flex;
+    
+    }
+    .mary-description{
+        margin-left: 200px;
+    }
